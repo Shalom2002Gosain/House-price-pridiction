@@ -33,7 +33,9 @@ A simple linear regression model capable of predicting house prices based on siz
 Insights into how the size of a house influences its price in the real estate market.
 A foundation for extending this project to multiple linear regression, where more features (like location, number of bedrooms, etc.) could be included to improve prediction accuracy.
 #
-## Conclusion: This project provides a hands-on experience with basic machine learning techniques, focusing on predicting house prices using simple linear regression. While this approach considers only one feature, it serves as an introduction to predictive modeling, allowing for future enhancements such as adding more variables or using more complex algorithms.
+## 5. Conclusion: 
+  This project provides a hands-on experience with basic machine learning techniques, focusing on predicting house prices using simple linear regression. While this approach considers only one feature, it serves 
+  as an introduction to predictive modeling, allowing for future enhancements such as adding more variables or using more complex algorithms.
 
 
 
