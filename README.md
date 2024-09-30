@@ -13,7 +13,7 @@ In the real estate market, predicting house prices is crucial for buyers, seller
 * Model Development:-
  Implement simple linear regression where the house price is the dependent variable, and house size is the independent variable.
  Use a statistical or machine learning library (like Python’s scikit-learn or R’s lm function) to train the model.
-* Model Evaluation-: Assess the model's performance using metrics like Mean Squared Error (MSE), Mean Absolute Error (MAE), and R-squared (R²) values.
+* Model Evaluation:- Assess the model's performance using metrics like Mean Squared Error (MSE), Mean Absolute Error (MAE), and R-squared (R²) values.
  
 * Prediction:- Once trained, use the model to predict the price of new houses based on their size.
 #
